@@ -1,8 +1,47 @@
-title: Just the Docs Template
+title: Docs
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
 url: https://just-the-docs.github.io
+repository: https://github.com/johe96/docs
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  -> Repository: https://github.com/johe96/docs
+
+aux_links_new_tab: true
+
+callouts_level: quiet
+callouts:
+  warning:
+    title: Warning
+    color: red
+  note:
+    title: Note
+    color: purple
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  highlight:
+    title: Highlight
+    color: yellow
+
+enable_copy_code_button: true
+
+heading_anchors: true
+
+permalink: pretty
+
+kramdown:
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
+
+color_scheme: nil
+
+back_to_top: true
+back_to_top_text: "Back to top"
+
+nav_sort: case_sensitive

@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: home
+nav_index: 2
 ---
 # This is another documentation site for Johe (me)
 
