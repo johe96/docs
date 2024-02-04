@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-nav_index: 1
+nav_order: 1
 ---
 
 # About page

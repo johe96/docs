@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Fundamentals
+nav_order: 4
 ---
 
 # Truthy
