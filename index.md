@@ -10,7 +10,7 @@ nav_order: 2
 more text
 {: .fs-6 .fw-300 }
 
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Get started now](course-information){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 Preview dark color scheme
 
