@@ -1,7 +1,7 @@
 ---
-layout: default
 title: Installation
-nav_order: 5
+layout: default
+nav_order: 4
 has_children: true
 permalink: installation
 ---

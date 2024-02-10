@@ -1,7 +1,9 @@
 ---
-layout: page
 title: Introduction
+layout: page
 nav_order: 3
+has_children: true
+permalink: introduction
 ---
 
 # An Introduction to JavaScript
