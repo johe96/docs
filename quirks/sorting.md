@@ -1,8 +1,8 @@
 ---
 title: Sorting
 layout: page
-nav_order: 3
 parent: Quirks
+nav_order: 3
 ---
 
 https://www.youtube.com/watch?v=kYAe7qDGOJw&t=421s

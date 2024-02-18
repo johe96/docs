@@ -1,7 +1,8 @@
 ---
-layout: page
 title: .this
+layout: page
 parent: Quirks
+nav_order: 8
 ---
 
 # .this
